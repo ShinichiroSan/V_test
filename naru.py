@@ -11,6 +11,8 @@ def add():
     e.insert(END , "Hello")
 
 
+
+
 e = Entry(root, show='*')
 e.pack()
 

@@ -52,6 +52,8 @@ def make_calc_button(operation):
 def make_clear_button(operation):
     return tk.Button(text=operation,font=('Arial',10), fg='blue', command=clear)
 
+
+
 def press_key(event):
     print(repr(event.char))
     if event.char.isdigit():

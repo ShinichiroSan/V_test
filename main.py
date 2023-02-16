@@ -5,6 +5,8 @@ root.geometry("1280x728")
 root.resizable(width = False, height = False)
 root.iconbitmap("icon.hello.ico")
 
+
+
 def click():
     print("Привет")
 

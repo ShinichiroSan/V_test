@@ -29,6 +29,8 @@ def stop_tick():
 
 
 
+
+
 def continue_tick():
     btnContinue.pack_forget()
     btnReset.pack_forget()

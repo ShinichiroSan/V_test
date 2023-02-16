@@ -1,6 +1,8 @@
 from tkinter import *
 from random import *
 
+
+
 root = Tk()
 root.title("Камень,ножницы,бумага")
 root.geometry("600x400")

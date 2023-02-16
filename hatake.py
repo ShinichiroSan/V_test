@@ -6,6 +6,8 @@ root.geometry("200x200")
 root.resizable(width=False, height=False)
 count = 0
 
+
+
 def clicked():
     global count
     count += 1

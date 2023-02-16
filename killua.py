@@ -1,6 +1,8 @@
 from tkinter import *
 from random import *
 
+
+
 root = Tk()
 root.title("Тестовое приложение")
 root.geometry("500x500")
